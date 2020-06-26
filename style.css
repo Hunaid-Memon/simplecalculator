@@ -1,0 +1,42 @@
+.main{
+    border: 2px solid white;
+    width: 250px;
+    height: 302px;
+    margin: 0 auto;
+    padding: 1px;
+}
+.result{
+    width: 245px;   
+    background-color: lightgrey;
+    color: black;
+    height: 50px;
+    font-size: 30px;
+    border: none;
+}
+.clearbtn{
+    background-color: rgb(241, 235, 215);
+    width: 99%;
+    height: 40px;
+    margin-top: 1px;
+    font-size: 20px;
+    color:gray;
+    border: none;
+    
+}
+.btn{
+    background-color: rgb(241, 235, 215);
+    width: 59px;
+    height: 40px;
+    margin-top: 2px;
+    font-size: 20px;
+    color:gray;
+    border: none;
+    text-align: center;
+
+    
+}
+sub{
+    vertical-align: super;
+    font-size: smaller;
+    
+}
